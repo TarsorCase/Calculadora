@@ -36,6 +36,8 @@ while(yes == 1){
 }
 if (yes == 2)
 {
-  Console.WriteLine("\nThank you for using this calculator :)\n");
-  
+  Console.WriteLine("\nThank you for using this calculator :)");
+  Console.WriteLine(" /\\_/\\");
+  Console.WriteLine("( o.o )");  
+  Console.WriteLine(" > ^ <");
 }
