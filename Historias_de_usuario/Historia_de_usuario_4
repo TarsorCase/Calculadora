@@ -1,0 +1,45 @@
+# Historia de Usuario No. 4
+
+## Desarrollo de la calculadora: Dividir dos números
+
+`Como usuario, necesito dividir dos números para obtener su resultado`
+
+## Descripción
+
+En ciertos escenarios, es necesario dividir un número entre otro para obtener un resultado específico. Por lo tanto, es esencial tener una función de división en la calculadora para realizar esta operación de manera rápida y precisa.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede ingresar dos números.
+   - El sistema debe mostrar el resultado de la división del primer número entre el segundo.
+2. **Criterio de Aceptación 2**
+   - La calculadora debe aceptar números enteros y decimales.
+   - El resultado debe ser preciso y mostrar decimales si es necesario.
+   - El sistema debe manejar correctamente la división por cero y mostrar un mensaje de error apropiado en ese caso.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Esta historia de usuario se estima que tomará aproximadamente 4 horas para completarse.
+
+## Notas/Tareas Adicionales
+
+- [ ] Implementar la función de multiplicación en futuras iteraciones.
+- [ ] Implementar la función de resta en futuras iteraciones.
+- [ ] Implementar la función de potenciación en futuras iteraciones.
+
+## Prototipos/Anexos
+
+No se proporcionaron prototipos o anexos para esta historia de usuario.
+
+## Discusiones
+
+No se han llevado a cabo discusiones en relación con esta historia de usuario.
+
+## Historial de Cambios
+
+No se han realizado cambios significativos en esta historia de usuario.

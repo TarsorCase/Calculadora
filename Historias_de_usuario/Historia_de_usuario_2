@@ -1,0 +1,44 @@
+# Historia de Usuario No. 2
+
+## Desarrollo de la calculadora: Restar dos números
+
+`Como usuario, necesito restar dos números para obtener su resultado`
+
+## Descripción
+
+Cuando se tienen dos números, a veces es necesario restar uno del otro para obtener el resultado deseado. Por lo tanto, es esencial tener una función de resta en la calculadora para realizar esta operación de manera rápida y precisa.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede ingresar dos números.
+   - El sistema debe mostrar el resultado de la resta del primer número menos el segundo.
+2. **Criterio de Aceptación 2**
+   - La calculadora debe aceptar números enteros y decimales.
+   - El resultado debe ser preciso y mostrar decimales si es necesario.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Esta historia de usuario se estima que tomará aproximadamente 4 horas para completarse.
+
+## Notas/Tareas Adicionales
+
+- [ ] Implementar la función de multiplicación en futuras iteraciones.
+- [ ] Implementar la función de división en futuras iteraciones.
+- [ ] Implementar la función de potenciación en futuras iteraciones.
+
+## Prototipos/Anexos
+
+No se proporcionaron prototipos o anexos para esta historia de usuario.
+
+## Discusiones
+
+No se han llevado a cabo discusiones en relación con esta historia de usuario.
+
+## Historial de Cambios
+
+No se han realizado cambios significativos en esta historia de usuario.

@@ -1,0 +1,44 @@
+# Historia de Usuario No. 3
+
+## Desarrollo de la calculadora: Multiplicar dos números
+
+`Como usuario, necesito multiplicar dos números para obtener su resultado`
+
+## Descripción
+
+En ciertas situaciones, es necesario multiplicar dos números para obtener un resultado específico. Por lo tanto, es crucial tener una función de multiplicación en la calculadora para realizar esta operación de manera rápida y precisa.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede ingresar dos números.
+   - El sistema debe mostrar el resultado de la multiplicación de los dos números ingresados.
+2. **Criterio de Aceptación 2**
+   - La calculadora debe aceptar números enteros y decimales.
+   - El resultado debe ser preciso y mostrar decimales si es necesario.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Esta historia de usuario se estima que tomará aproximadamente 4 horas para completarse.
+
+## Notas/Tareas Adicionales
+
+- [ ] Implementar la función de división en futuras iteraciones.
+- [ ] Implementar la función de resta en futuras iteraciones.
+- [ ] Implementar la función de potenciación en futuras iteraciones.
+
+## Prototipos/Anexos
+
+No se proporcionaron prototipos o anexos para esta historia de usuario.
+
+## Discusiones
+
+No se han llevado a cabo discusiones en relación con esta historia de usuario.
+
+## Historial de Cambios
+
+No se han realizado cambios significativos en esta historia de usuario.
